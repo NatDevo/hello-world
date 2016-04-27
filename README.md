@@ -1,4 +1,3 @@
 # hello-world
-Hail Mary pass
-I'm going through a something difficult right now and coding makes it better. 
-Let's try again to make some changes.
+Dearly Beloved we are gathered here today...
+Things are a bit tricky right now.
