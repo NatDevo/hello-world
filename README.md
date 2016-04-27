@@ -1,3 +1,2 @@
 # hello-world
-Hail Mary pass
-Coding is helping me stay sane
+Dearly Beloved we are gathered here today...
